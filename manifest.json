@@ -1,0 +1,11 @@
+{
+  "name": "UIT. — Studentenactiviteiten",
+  "short_name": "UIT.",
+  "description": "Vind direct iets leuks om te doen.",
+  "lang": "nl-NL",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4f5ef",
+  "theme_color": "#182c25",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
